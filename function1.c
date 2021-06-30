@@ -9,6 +9,7 @@ printf("Enter Second No:");
 scanf("%d",&n2);
 s=n1+n2;
 printf("Sum of %d and %d is %d", n1,n2,s);
+printf("EXIT");
 
 }
 int main(int argc, char const *argv[])
